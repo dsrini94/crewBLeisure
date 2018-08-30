@@ -1,0 +1,77 @@
+.loginPageSection1{
+  background:"url('./../../images/app1.jpg')"
+
+    /*background: linear-gradient(to right,#FDBC57, #EC537D); */
+      /*background: linear-gradient(to right, #F1619F , #8F6EDF);*/
+       /*background: linear-gradient(to right,#3BE3E1, #4AAEF0);*/
+}
+.loginPageSection2{
+    background-color: #800000;
+    /*background: linear-gradient(to right,#FDBC57, #EC537D); */
+      /*background: linear-gradient(to right, #F1619F , #8F6EDF);*/
+       /*background: linear-gradient(to right,#3BE3E1, #4AAEF0);*/
+}
+.material-icons{
+  font-size: 20px !important;
+}
+
+.main {
+  height: 100vh;
+}
+.subheaders{
+  font-family: 'Quicksand', sans-serif;
+  color:white;
+  font-size: 18px;
+}
+
+.MenuHeader{
+  background-color: #800000 !important;
+}
+
+/*#F22731*/
+.appbar{
+  margin-top: -14px !important;
+
+}
+
+.companyName{
+  font-family: 'Cookie', cursive;
+  color:white;
+  font-size: 35px;
+}
+
+.LoginPageCompanyName{
+  font-family: 'Cookie', cursive;
+  color:white;
+  font-size: 65px;
+}
+
+.appbar{
+   background-color: rgba(95, 74, 74, 0.67) !important;
+}
+/*rgba(255, 0, 0, 0.5)*/
+/*-------------------Designing Modal------------------------*/
+
+.modalButton{
+  position: fixed;
+  bottom: 90%;
+  left: 93%;
+}
+
+.vhsidebar{
+  height:100vh;
+}
+
+.segmentDesign{
+  background-color: #d9d9d9 !important;
+}
+
+.cardImage{
+  border-radius: 8px;
+}
+
+.outlines{
+  color: #800000;
+  border-bottom: 1px solid;
+  border-radius: 0.3em;
+}
